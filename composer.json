@@ -1,5 +1,5 @@
 {
-    "name": "therobfonz/laravel-mandrill-driver",
+    "name": "protosofia/laravel-mandrill-driver",
     "description": "Mandrill Driver for Laravel 6+",
     "type": "library",
     "keywords": ["Laravel","Mandrill"],
